@@ -6,6 +6,5 @@
   "semi": false,
   "trailingComma": "all",
   "singleQuote": true,
-  "printWidth": 70,
-  "beautify.ignore": [ "/*.js", "/*.jsx" ]
+  "printWidth": 70
 }
